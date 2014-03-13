@@ -309,17 +309,17 @@
   <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="github" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" remote="github" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="SlimRoms/packages_apps_Dialer" remote="github" revision="kk4.4" />
-  <project path="packages/apps/DokdoUpdater" name="Dokdo-Project/android_packages_apps_DokdoUpdater" remote="github" revision="kitkat" />
-  <project path="packages/apps/DokdoWallpapers" name="Dokdo-Project/android_packages_apps_DokdoWallpapers" remote="github" revision="kitkat" />
+  <project path="packages/apps/DokdoUpdater" name="Dokdo-Project/platform_packages_apps_DokdoUpdater" remote="github" revision="kitkat" />
+  <project path="packages/apps/DokdoWallpapers" name="Dokdo-Project/platform_packages_apps_DokdoWallpapers" remote="github" revision="kitkat" />
   <project path="packages/apps/DSPManager" name="SlimRoms/packages_apps_DSPManager" remote="github" revision="kk4.4" />
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="github" revision="kk4.4" />
   <project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" remote="github" revision="kk4.4" />
   <project path="packages/apps/Gallery2" name="SlimRoms/packages_apps_Gallery2" remote="github" revision="kk4.4" />
-  <project path="packages/apps/HALO" name="Dokdo-Project/android_packages_apps_HALO" remote="github" revision="kitkat" />
+  <project path="packages/apps/HALO" name="Dokdo-Project/platform_packages_apps_HALO" remote="github" revision="kitkat" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="Dokdo-Project/packages/apps/Launcher3" remote="github" revision="kitkat" />
+  <project path="packages/apps/Launcher3" name="Dokdo-Project/platform_packages_apps_Launcher3" remote="github" revision="kitkat" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="kk4.4" />
   <project path="packages/apps/MusicFX" name="SlimRoms/packages_apps_MusicFX" remote="github" revision="kk4.4" />
