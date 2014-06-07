@@ -1,4 +1,4 @@
-2014 AOSP Dokdo-Project
+2014 AOSP Dokdo-Project For c1lte family
 ===========
 
 Getting Started
@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the Dokdo-Project trees, use a command like this:
 
-    repo init -u git://github.com/Dokdo-Project/platform_manifest.git -b kitkat
+    repo init -u git://github.com/Dokdo-Project/platform_manifest.git -b kitkat_c1lte
 
 Then to sync up:
 
