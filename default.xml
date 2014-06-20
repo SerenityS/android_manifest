@@ -330,7 +330,7 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="Dokdo-Project/platform_packages_apps_Launcher3" remote="github" revision="kitkat" />
+  <project path="packages/apps/Launcher3" name="Dokdo-Project/platform_packages_apps_DokdoLauncher3" remote="github" revision="kitkat" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/LockClock" name="Dokdo-Project/platform_packages_apps_LockClock" remote="github" revision="kitkat" />
   <project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="kk4.4" />
